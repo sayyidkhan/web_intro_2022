@@ -28,4 +28,4 @@ Exercises For Day 1:
 ### Revision & Test
 
 -	30 minutes HTML / CSS / Javascript Test
--	1 hour (Build a basic Website with HTML, CSS, JS)
+-	1 hour Project (Build a basic Website with HTML, CSS, JS)
