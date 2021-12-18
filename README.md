@@ -29,3 +29,7 @@ Exercises For Day 1:
 
 -	30 minutes HTML / CSS / Javascript Test (20 Questions)
 -	1 hour Project (Build a basic Website with HTML, CSS, JS)
+  1. student need to submit a PDF screenshot of the website
+  2. students need to submit the code
+  3. if the website cannot load, immediate failure
+
