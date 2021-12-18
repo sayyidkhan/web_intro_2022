@@ -11,9 +11,21 @@ Course materials for HTML, CSS, JS
 
 ## Day 1
 ### HTML & CSS
+- Introduction to HTML (Exercise - Create a basic HTML page (15 mins) )
+- Introduction to CSS (Exercise - Create a basic HTML page + CSS (15 mins) )
+
+
+#### Total Exercises to submit VB: 2
+Exercises For Day 1:
+- Create a Basic 
 
 ## Day 2
 ### Basic Javascript + Javascript with HTML & CSS
+- Introduciton to Javascript
+- 
 
 ## Day 3
 ### Revision & Test
+
+-	30 minutes HTML / CSS / Javascript Test
+-	30 minutes (Build a basic Website)
