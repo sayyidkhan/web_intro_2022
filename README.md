@@ -12,6 +12,13 @@ Course materials for HTML, CSS, JS
 ## Day 1
 ### HTML & CSS
 
+Online code editors:
+1. codepen.io
+2. repl.it
+
+Documentation References:
+1. w3schools.com
+
 *Morning:*
 - Introduction to HTML (Exercise - Create a basic HTML page (15 mins) )
 
