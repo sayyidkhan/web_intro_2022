@@ -14,7 +14,7 @@ Course materials for HTML, CSS, JS
 
 Online code editors:
 1. codepen.io
-2. repl.it
+2. replit.com
 
 Documentation References:
 1. w3schools.com
