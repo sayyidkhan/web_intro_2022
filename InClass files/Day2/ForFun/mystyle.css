@@ -1,0 +1,149 @@
+body{
+    background-color:#f2f2f2;
+    padding-top:20px;
+  }
+.btn{
+color:#666;
+height:60px;
+width:60px;
+font-size: 25px;
+font-family: 'Lato', sans-serif;
+border-radius: 50px;
+border:0;
+box-shadow: 0px 3px 8px #aaa,
+inset 5px 5px 15px 2px #fff,
+inset -3px -5px 10px  #aaa,
+0px -5px 10px 3px #fff;
+background-color: #f2f2f2;
+margin:20px;
+}
+.btn:active{
+animation-name: pressed;
+animation-duration: 0.1s;
+animation-fill-mode: forwards;
+animation-iteration-count: 1;
+animation-timing-function: ease-out;
+}
+
+@keyframes pressed{
+50%{
+    box-shadow: none;
+}
+100%{
+    box-shadow: inset 3px 3px 15px #aaa,
+    inset -5px -5px 5px 2px #fff,
+    0px 1px 3px #aaa;
+    color:#7a7a7a;
+}
+}
+
+/* second section */
+  
+div.wrapper {
+    width: 60%;
+    height: auto;
+    border: 2px dashed black;
+}
+
+/* third section */  
+.container {
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+margin-top: 30px;
+}
+
+#dress {
+width: 0px;
+height: 0px;
+border-left: 60px solid transparent;
+border-right: 60px solid transparent;
+border-bottom: 120px solid black;
+}
+
+#head {
+width: 60px;
+height: 60px;
+border-radius: 50%;
+background: pink;
+display: flex;
+align-items: center;
+}
+
+.footContainer {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.foot {
+width: 5px;
+height: 20px;
+background: pink;
+margin-right: 20px;
+}
+
+.footRight {
+width: 5px;
+height: 20px;
+background: pink;
+margin-left: 20px;
+}
+
+.colorPalette {
+width: 300px;
+height: 100px;
+background: white;
+margin-top: 30px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.redDot {
+width:30px;
+height: 30px;
+border-radius: 50%;
+background: red;
+}
+
+.blueDot {
+width:30px;
+height: 30px;
+border-radius: 50%;
+background: blue;
+}
+
+.greenDot {
+width:30px;
+height: 30px;
+border-radius: 50%;
+background: green;
+}
+
+.blackDot {
+width:30px;
+height: 30px;
+border-radius: 50%;
+background: black;
+}
+
+.eye {
+width: 10px;
+height:10px;
+border-radius: 50%;
+background: white;
+display: flex;
+}
+
+.iris {
+width: 4px;
+height: 2px;
+border-radius: 50%;
+background: blue;
+margin-left: 2px;
+}
+
+
+

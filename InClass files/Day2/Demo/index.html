@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <title>Day 2 webpage</title>
+        <style type="text/css">
+            /* css code comes here */
+        </style>
+        
+    </head>
+
+    <body>
+        <!-- HTML elements come here  -->
+        <h1>This is a clock</h1>
+        <p>Click to display the time</p>
+        <button id="demo_btn" onclick="showTime();">What is the time?</button>
+        <button onclick="showTime();">Random button</button>
+        
+        <p id="demo"></p>
+
+        <br>
+        <hr>
+        <form>
+            <input type='button' value='clickme' onclick='doit("done");' />
+        </form>
+            
+
+        <script type="text/javascript">
+            // document.getElementById("demo_btn").onclick = function() {
+            //     document.getElementById("demo").innerHTML = Date();
+            // }
+            function showTime(){
+                document.getElementById("demo").innerHTML = Date();
+            }
+
+            // var x=Number(prompt("enter a number: "));
+            // alert( x>=2 && x<=4 );
+            // console.log( x<2 || x>4 );
+
+            function dosth(){
+                alert("doing sth!");
+                return "happy cny"
+            }
+            var dosthResult = dosth();
+            // console.log(dosthResult);
+            document.getElementById("demo").innerHTML = dosthResult;
+        
+            function doit(v){ 
+                alert(v);
+            }
+
+        </script>
+    </body>
+</html>
